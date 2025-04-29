@@ -2,28 +2,13 @@
   "students": [
     {
       "id": 1,
-      "name": "José Maria",
-      "course": "Computação"
+      "name": "999999",
+      "course": "999999"
     },
     {
       "id": 2,
-      "name": "Fernanda Silva",
-      "course": "Computação"
-    },
-    {
-      "id": 3,
-      "name": "Mario Antunes",
-      "course": "Matemática"
-    },
-    {
-      "id": 4,
-      "name": "asdas",
-      "course": "12321321"
-    },
-    {
-      "id": 5,
-      "name": "234324234",
-      "course": "234423432432"
+      "name": "32432",
+      "course": "23432"
     }
   ]
 }
