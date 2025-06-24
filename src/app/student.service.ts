@@ -8,7 +8,7 @@ import { Student } from './student';
 })
 export class StudentService {
 
-  apiUrl = "http://localhost:3000/students";
+  apiUrl = "https://fatecitu.duckdns.org/students";
 
   constructor(private http: HttpClient) { }
 
